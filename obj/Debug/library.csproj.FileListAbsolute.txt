@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\library\bin\Debug\library.exe.config
+D:\cat32tw\Desktop\library\bin\Debug\library.exe
+D:\cat32tw\Desktop\library\bin\Debug\library.pdb
+D:\cat32tw\Desktop\library\obj\Debug\library.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\library\obj\Debug\library.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\library\obj\Debug\library.Form1.resources
+D:\cat32tw\Desktop\library\obj\Debug\library.Properties.Resources.resources
+D:\cat32tw\Desktop\library\obj\Debug\library.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\library\obj\Debug\library.exe
+D:\cat32tw\Desktop\library\obj\Debug\library.pdb
